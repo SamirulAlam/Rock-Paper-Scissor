@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img{
+    margin: 30px;
+}
+
+img:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px 0 saddlebrown;
+}
+h1{
+    text-align: center;
+}
